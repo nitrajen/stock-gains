@@ -1,4 +1,4 @@
-# Stock returns dashboard
+# Stock gains dashboard
 
 This repo contains source code for a prototype stock returns dashboard, built using React (front-end) and Flask (Python back-end). The backend retrieves stock data using the IEX API. The front-end makes use of Material UI, React Redux for state management and Highcharts for plotting data.
 
